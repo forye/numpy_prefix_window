@@ -1,5 +1,4 @@
 '''
-Created on Jul 29, 2014
 
 @author: Idan Fonea
 '''
@@ -230,9 +229,6 @@ def get_local_trend_standard_error( x , w ,alpha,beta, wh=0, timeInterval = 60):
 
 #calculate_standard_error_of_self_regress
 
-#calculate shock index
-
-#event Identifier 1,2,3,4
 
 # count events
 
